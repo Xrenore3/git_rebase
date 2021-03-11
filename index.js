@@ -1,5 +1,0 @@
-
-console.log('roman skmd')
-
-
-
